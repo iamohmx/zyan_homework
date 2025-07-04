@@ -1,7 +1,6 @@
 # zyan_homework
 
-A new Flutter project.
-
+This is homework blahh!
 ## Getting Started
 
 This project is a starting point for a Flutter application.
